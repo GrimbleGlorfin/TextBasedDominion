@@ -1,0 +1,15 @@
+PROBLEMS
+
+    Sometimes plays action twice?
+    Lose treasure if not play??
+    Rohan does not work
+    Throne room does not work
+    Chapel can't see last(some) card in hand (only before drawing any cards)
+    Error if no cards left to draw and try to - trys to take len() of nothing  - Make try else
+    Shuffles deck after first buy...
+    Doesn't print cards drawn
+
+NEW FEATURES
+
+    Make option to choose starting hands
+    Reprint out kingdom if ask
