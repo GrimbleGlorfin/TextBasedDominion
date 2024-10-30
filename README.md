@@ -1,2 +1,3 @@
 # TextBasedDominion
-A text based version of Dominion
+An unfinished text-based version of Dominion. 
+Experimenting with AI.
